@@ -16,6 +16,7 @@ It was supposed to be a really basic bash script... then I realized I wanted an 
 
 		ex: `randrote.sh 5`
 3. Run your dedicated quake3 server with `+exec maplist.cfg`
+
 		ex: `ioq3ded +exec maplist.cfg`
 4. Have so much fun fragging, ok? ❤️
 
