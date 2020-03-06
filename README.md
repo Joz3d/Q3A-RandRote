@@ -3,7 +3,7 @@ Quake 3 Arena Random Map Rotator
 
 Two best friends were so young at the turn of the century, and so nerdy, playing their Q3A instead of getting laid.
 
-20 years later, busy in their now post-laid, with actual-wives-and-children lives (👍🏻🎊), they are separated by a continent, but alas, they have indeed noticed that Internet connections are so much faster now.  They could probably even setup a Q3A server somehwere in the middle of the country and both get reasonable pings?  Yes, they can!  Some of that dot-com dark fiber is indeed glowing!
+20 years later, busy in their now post-laid, with actual-wives-and-children lives (👍🏻🎊), they are separated by a continent, but alas, they have indeed noticed that Internet connections are so much faster now.  They could probably even setup a Q3A server somehwere in the middle of the country and both get reasonable pings?  Yes, they can!  Some of that dot-com dark fiber really is glowing!
 
 The fragging has picked up right where it left off.  But how about randomizing that damn map rotation!?
 
