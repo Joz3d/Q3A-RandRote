@@ -7,7 +7,7 @@ Two best friends were so young at the turn of the century, and so nerdy, playing
 
 The fragging has picked up right where it left off.  But how about randomizing that damn map rotation!?
 
-It was supposed to be a really basic bash script... then I realized I wanted an option to have a specific map always be one of the first 3 in the rotation, which then created a bunch of logic requirements.  It was then that I realized I probably should've written it in Python, but who really gives a shit.
+It was supposed to be a really basic bash script... then I realized I wanted an option to have a specific map always be one of the first 3 in the rotation, which then created a bunch of logic requirements.  It was at halfway through writing that logic  when I realized I probably should've written it in Python, but who really gives a shit.
 
 
 # Instructions
