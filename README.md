@@ -10,7 +10,7 @@ The fragging has picked up right where it left off.  But how about randomizing t
 It was supposed to be a really basic bash script... then I realized I wanted an option to have a specific map always be one of the first 3 in the rotation, which then created a bunch of logic requirements.  It was at halfway through writing that logic when I realized I probably should've written this in Python, but who really gives a shit.
 
 
-# Instructions
+## Instructions
 1. List your favorite map names in a file called `mappool`
 2. Set your `baseq3` path in the script
 3. Run this script with an arg for the number of maps you want to randomly rotate
